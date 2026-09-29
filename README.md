@@ -253,7 +253,7 @@ Name: Sohan
 Phone: 9123456789
 
 Display All Contacts:
-Amit   - 9876501234
+Saikat   - 9876501234
 Rahul  - 9876543210
 Sohan  - 9123456789
 ```
